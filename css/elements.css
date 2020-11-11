@@ -1,0 +1,23 @@
+/* Elements */
+
+.header {
+    text-align: center;
+    grid-column: 1/5;
+    grid-row: 1/2;
+}
+
+.archive {
+    grid-column: 4/5;
+    grid-row: 2/3;
+}
+
+.post {
+    text-align: justify;
+    grid-column: 1/4;
+    grid-row: 2/5;
+}
+
+.author {
+    grid-column: 4/5;
+    grid-row: 3/5;
+}
